@@ -30,9 +30,4 @@
         android:name="lucassamel.br.at_interface.FormularioFragment"
         android:label="fragment_formulario"
         tools:layout="@layout/fragment_formulario" />
-    <fragment
-        android:id="@+id/infPessoaisFragment"
-        android:name="lucassamel.br.at_interface.InfPessoaisFragment"
-        android:label="fragment_inf_pessoais"
-        tools:layout="@layout/fragment_inf_pessoais" />
 </navigation>
