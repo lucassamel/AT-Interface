@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/perfilFragment"
+        android:icon="@drawable/avatar"
+        android:title="Informações Pessoais" />
+    <item
+        android:id="@+id/mainActivity"
+        android:icon="@android:drawable/ic_menu_edit"
+        android:title="Formação" />
+    <item
+        android:id="@+id/exProfissionalFragment"
+        android:icon="@android:drawable/ic_menu_send"
+        android:title="Experiência Profissional" />
+    <item
+        android:id="@+id/cursosFragment"
+        android:icon="@android:drawable/ic_input_get"
+        android:title="Cursos" />
+    <item
+        android:id="@+id/publicacoesFragment"
+        android:icon="@android:drawable/ic_dialog_dialer"
+        android:title="Publicações" />
+</menu>
