@@ -4,9 +4,9 @@
     <item
         android:id="@+id/perfilFragment"
         android:icon="@drawable/avatar"
-        android:title="Informações Pessoais" />
+        android:title="Perfil" />
     <item
-        android:id="@+id/mainActivity"
+        android:id="@+id/infPessoaisFragment"
         android:icon="@android:drawable/ic_menu_edit"
         android:title="Formação" />
     <item
